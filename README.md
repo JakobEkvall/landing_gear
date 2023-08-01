@@ -1,5 +1,5 @@
 # landing_gear
-Landing gear
+PCB for the Shafter landing platforms stepper motor and limit switches. 
 
 Schematics and PCB designed with KiCad. 
 
